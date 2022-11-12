@@ -1,0 +1,3 @@
+this is for rm and append command for demo use
+also trying gitignore
+removed and adding again
