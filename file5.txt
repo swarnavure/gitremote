@@ -1,1 +1,4 @@
+
 this is an example for merge conflict
+this is an example for merge conflict in branch b1
+
